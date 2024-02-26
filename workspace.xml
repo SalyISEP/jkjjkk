@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="af69553d-6bf4-4f0c-8faf-caf8cba373cd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Exo8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListOfInterger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Maname.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo7.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exo7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InvertString.java" beforeDir="false" afterPath="$PROJECT_DIR$/InvertString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mon4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mon4.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2bRbfa7eTsLLCHk4teHlYYpX5lB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.InvertString.executor": "Run",
+    "Application.Maname.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/saly/IdeaProjects"
+  }
+}]]></component>
+  <component name="RunAnythingContextRecentDirectoryCache">
+    <option name="paths">
+      <recentPaths value="$USER_HOME$/IdeaProjects" />
+    </option>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-4caba194b151-3c5dfc45" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af69553d-6bf4-4f0c-8faf-caf8cba373cd" name="Changes" comment="" />
+      <created>1706180942987</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706180942987</updated>
+    </task>
+    <servers />
+  </component>
+</project>
